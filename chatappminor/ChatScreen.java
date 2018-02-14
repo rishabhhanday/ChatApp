@@ -144,6 +144,7 @@ static String secretMessage="" ;
         
         String message = Validate.name+jTextArea2.getText();
         secretMessage = secretMessage +message+ "\n";
+        jTextArea1.setText(ChatScreen.secretMessage);
 ps.println(message);// TODO add your handling code here:
 
 jTextArea2.setText("");
