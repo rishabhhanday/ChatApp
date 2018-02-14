@@ -1,6 +1,7 @@
-Rishabh : Hello
- Rishabh : Hello
-Rishabh : How are you
- Rishabh : How are you
-Rishabh : I'm Good and how are you
- Rishabh : I'm Good and how are you
+ Rishabh : hi
+NIschay : hello
+ Rishabh : how are you
+NIschay : I'm good
+ Rishabh : can we talk over phone ?
+NIschay : Yes we can
+ Rishabh : 

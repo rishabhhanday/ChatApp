@@ -31,7 +31,7 @@ public void run(){
    while(true){
        String message = br.readLine();
    ChatScreen.secretMessage = ChatScreen.secretMessage +" "+message+"\n";
-   jt.setText(message);
+   jt.setText(ChatScreen.secretMessage);
    
    }
        

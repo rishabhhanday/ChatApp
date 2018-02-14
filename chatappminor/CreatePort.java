@@ -55,7 +55,7 @@ static String ip;
         jPanel1.add(jTextField1, new org.netbeans.lib.awtextra.AbsoluteConstraints(320, 130, 290, -1));
 
         jTextField2.setFont(new java.awt.Font("Tahoma", 0, 24)); // NOI18N
-        jTextField2.setText("192.168.0.103");
+        jTextField2.setText("169.254.236.80");
         jPanel1.add(jTextField2, new org.netbeans.lib.awtextra.AbsoluteConstraints(310, 310, 290, -1));
 
         jLabel1.setFont(new java.awt.Font("Tahoma", 0, 48)); // NOI18N
